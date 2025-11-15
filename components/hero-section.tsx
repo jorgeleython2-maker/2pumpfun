@@ -33,7 +33,7 @@ export default function HeroSection() {
           <p className="text-xl md:text-2xl font-medium text-balance">
             we must put this to an end.
           </p>
-        </div>
+  
           </div>
         </div>
       </div>
