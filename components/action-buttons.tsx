@@ -14,7 +14,7 @@ export default function ActionButtons() {
 
         {/* Heading */}
         <h2 className="text-3xl md:text-4xl font-bold mb-16 text-balance">
-          detrader creator of $TLM, started a revolution, poorly formulated, this could be better.
+          2funpump is an idea, a feeling, and a community united by being heard without profit.
         </h2>
   
 
