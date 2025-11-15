@@ -15,17 +15,17 @@ export default function Home() {
       <ContentSection 
         title="we will bring eyes to the issue, for every tweet about $TLM is a step in spreading awareness."
         content={{
-          author: "mayggoe",
-          handle: "@mayggoe",
+          author: "detrader",
+          handle: "@detrader",
           verified: true,
-          text: "Now Solana has more developers than traders, and you all know the reason behind it.",
-          time: "6:00 PM - Nov 13, 2025",
+          text: "For the longest time CT has been trying to get the attention of Pumpfun to start rewarding holders over deployers. For the first time, there are now more deployers in the space than there are traders. $TLM has the goal to spread awareness and make change happen",
+          time: "4:13 PM - Nov 14, 2025",
           engagement: {
-            likes: "191",
-            replies: "63"
+            likes: "68",
+            replies: "17"
           }
         }}
-        tweetUrl="https://x.com/eveeOx/status/1854898394717020517"
+        tweetUrl="https://x.com/detraderSol/status/1989441686884524049"
         position="right"
       />
 
