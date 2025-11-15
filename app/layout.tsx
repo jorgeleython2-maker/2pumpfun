@@ -9,10 +9,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 export const metadata: Metadata = {
   title: 'Trader Lives Matter',
   description: 'For every 1 trader there are 3 deployers',
-   icons: {
-    icon: "https://i.postimg.cc/76ZXg9Vk/logo.png",
-    apple: "https://i.postimg.cc/76ZXg9Vk/logo.png",
-  }, ,
+  generator: 'v0.app',
 }
 
 export default function RootLayout({

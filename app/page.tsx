@@ -14,7 +14,7 @@ export default function Home() {
       {/* Eyes to the Issue Section */}
       <SmartTweetSection 
         title="we will bring eyes to the issue, for every tweet about $TLM is a step in spreading awareness."
-        tweetUrl="https://x.com/detraderSol/status/1989441686884524049"
+        tweetUrl="https://x.com/eveeOx/status/1854898394717020517"
         position="right"
       />
 
