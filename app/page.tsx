@@ -27,15 +27,15 @@ export default function Home() {
 
       {/* New Section with Different Messaging */}
       <SmartTweetSection 
-        title="our goal is to be recognized by the leaders in the space. alon, we are talking about you."
-        tweetUrl="https://x.com/singdeer/status/1854632187654321098"
+        title="The goal is not to have millions of dollars in currency; our purpose is to be seen and understood."
+        tweetUrl="https://x.com/DaRealLORDLIMO/status/1989185942419345762"
         position="right"
       />
 
       {/* This Cannot Continue Section */}
       <SmartTweetSection 
-        title="this cannot continue."
-        tweetUrl="https://x.com/bon_g/status/1854587234567890123"
+        title="This has to be reversed."
+        tweetUrl="https://x.com/evee0x/status/1989106043922808988"
         position="left"
       />
 
