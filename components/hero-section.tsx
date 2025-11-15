@@ -6,15 +6,12 @@ export default function HeroSection() {
   const [isHovering, setIsHovering] = useState(false)
 
   return (
-<section className="min-h-screen bg-background flex items-center justify-center px-4 py-20">
-  <div className="w-full text-center">
-
-    {/* LOGO CENTRADO - CAMBIA SOLO UNA PALABRA AQUÍ */}
-    <img 
-      src="https://i.postimg.cc/76ZXg9Vk/logo.png"
-      alt="Mi logo"
-      className="mx-auto w-48 object-contain"
-    />
+    <section className="min-h-screen bg-background flex items-center justify-center px-4 py-20">
+      <div className="max-w-4xl w-full text-center">
+        {/* Title */}
+        <h1 className="text-7xl md:text-8xl font-bold mb-6 text-balance leading-tight">
+      
+        </h1>
         
         {/* LIVES Box */}
         <div className="relative inline-block mb-8">
