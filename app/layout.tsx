@@ -10,6 +10,10 @@ export const metadata: Metadata = {
   title: 'Trader Lives Matter',
   description: 'For every 1 trader there are 3 deployers',
   generator: 'v0.app',
+    icons: {
+    icon: "https://i.postimg.cc/76ZXg9Vk/logo.png",
+    apple: "https://i.postimg.cc/76ZXg9Vk/logo.png",
+  },
 }
 
 export default function RootLayout({
