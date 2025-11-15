@@ -8,7 +8,7 @@ const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: '2 Fun Pump',
-  description: 'For every 1 trader there are 3 deployers',
+  description: 'I wish things were the other way around.',
   generator: 'v0.app',
 }
 
