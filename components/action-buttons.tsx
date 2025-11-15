@@ -14,7 +14,7 @@ export default function ActionButtons() {
 
         {/* Heading */}
         <h2 className="text-3xl md:text-4xl font-bold mb-16 text-balance">
-          $TLM becomes trending on pumpfun with a news header
+          detrader creator of $TLM, started a revolution, poorly formulated, this could be better.
         </h2>
   
 
