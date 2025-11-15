@@ -10,6 +10,10 @@ export const metadata: Metadata = {
   title: '2 Fun Pump',
   description: 'I wish things were the other way around.',
   generator: 'v0.app',
+  icons: {
+    icon: "https://i.postimg.cc/76ZXg9Vk/logo.png",
+    apple: "https://i.postimg.cc/76ZXg9Vk/logo.png",
+  },
 }
 
 export default function RootLayout({
