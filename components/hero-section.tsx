@@ -8,18 +8,12 @@ export default function HeroSection() {
   return (
 <section className="min-h-screen bg-background flex items-center justify-center px-4 py-20">
   <div className="w-full text-center">
-    {/* ← AJUSTA EL TAMAÑO AQUÍ (una sola línea) → */}
+
+    {/* LOGO CENTRADO - CAMBIA SOLO UNA PALABRA AQUÍ */}
     <img 
       src="https://i.postimg.cc/76ZXg9Vk/logo.png"
       alt="Mi logo"
-      className="mx-auto w-full 
-                 max-w-xs     /* ← CAMBIA ESTE VALOR SEGÚN NECESITES → */
-                 sm:max-w-sm 
-                 md:max-w-md 
-                 lg:max-w-lg 
-                 xl:max-w-xl 
-                 2xl:max-w-2xl 
-                 object-contain drop-shadow-2xl"
+      className="mx-auto w-48 object-contain"
     />
         
         {/* LIVES Box */}
