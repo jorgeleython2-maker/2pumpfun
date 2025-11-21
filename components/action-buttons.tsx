@@ -22,7 +22,7 @@ export default function ActionButtons() {
         <div className="flex flex-col md:flex-row gap-8 justify-center items-center mb-20">
           {/* X Button */}
           <a
-            href="https://x.com/home"
+            href="https://x.com/i/communities/1991966728419426466"
             target="_blank"
             rel="noopener noreferrer"
             className="w-32 h-32 bg-primary/10 rounded-3xl flex flex-col items-center justify-center hover:bg-primary/20 transition-all duration-300 border-2 border-primary hover:scale-110 hover:shadow-lg shadow-lg"
