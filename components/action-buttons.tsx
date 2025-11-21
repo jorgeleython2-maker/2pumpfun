@@ -35,7 +35,7 @@ export default function ActionButtons() {
 
           {/* Pump Fun Button */}
           <a
-            href="https://pump.fun/coin/2J1gU19BYa3DysbrPcDt8WPvSaBYNVExUzDsQPG3pump"
+            href="https://pump.fun/profile/2funpump"
             target="_blank"
             rel="noopener noreferrer"
             className="w-32 h-32 bg-primary/10 rounded-3xl flex flex-col items-center justify-center hover:bg-primary/20 transition-all duration-300 border-2 border-primary hover:scale-110 hover:shadow-lg shadow-lg"
