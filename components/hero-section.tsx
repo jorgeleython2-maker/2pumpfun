@@ -28,7 +28,7 @@ export default function HeroSection() {
         {/* Tagline */}
         <div className="mb-16">
           <p className="text-2xl md:text-3xl font-semibold mb-4 text-balance leading-relaxed">
-            things would have to be the other way around
+           Should be the other way around.
           </p>
           <p className="text-xl md:text-2xl font-medium text-balance">
           
